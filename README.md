@@ -61,21 +61,29 @@ Features Added:
   - Analytics Summary
   - Notification
 
-3. Frontend 
-  - Improved UI at the login and register pages
+3. Frontend React
+  - Improved UI at the login, register pages, and sidebar component
   - Loading animation and skeleton screens
-  - Sidebar navigation improvements 
+  - Pagination and filter feature
   - Added bell icon for notification
   - Drop-down list for notification
 
-4. Dashboard
+4. Backend FastAPI
+  - JWT authentication and authorization
+  - Added success response format
+  - Global error response implementation
+  - Paginations and Search Filters
+  - Validations and error handling
+  - Reusable code structure
+
+6. Dashboard
   - KPI carts for system analytics
   - Monthly charts
   - Top products charts
   - Forecast prediction graph
   - Filter features to display analytics
 
-5. Downloads
+6. Downloads
   - Forecast report downloaded in PDF and Excel
   - User report file view and download
   - Summary analytics downloaded in PDF and Excel
